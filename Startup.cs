@@ -40,7 +40,7 @@ namespace DutchTreat
             {
                 cfg.MapControllerRoute("Fallback",
                    "{controller}/{action}/{id?}",
-                   new { controller = "App", action = "About" });
+                   new { controller = "App", action = "Index" });
             }
             );
         }

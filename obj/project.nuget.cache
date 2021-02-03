@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Is4hAfnkbzYNTyuZhuYav/7KsWAJsVPzQp2I12FvgLC2qJnArm1NMe3zFO0ZVuekf9tM4Nvb4Lon3UGHxlQ4Pg==",
+  "dgSpecHash": "yv1PHTtppuAWOZakiKAGg/jzkOeALP2wKN/jJSzb6wWUoUpVItaKMeQkcXdcvGvb7FuY2D0mZUsLDqR9Rk13XQ==",
   "success": true,
-  "projectFilePath": "C:\\DutchTreat\\DutchTreat.csproj",
+  "projectFilePath": "C:\\Users\\mattyaak\\source\\repos\\mattyaak\\DutchTreat\\DutchTreat.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mattyaak\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\mattyaak\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

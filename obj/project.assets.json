@@ -3908,11 +3908,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DutchTreat\\DutchTreat.csproj",
+      "projectUniqueName": "C:\\Users\\mattyaak\\source\\repos\\mattyaak\\DutchTreat\\DutchTreat.csproj",
       "projectName": "DutchTreat",
-      "projectPath": "C:\\DutchTreat\\DutchTreat.csproj",
+      "projectPath": "C:\\Users\\mattyaak\\source\\repos\\mattyaak\\DutchTreat\\DutchTreat.csproj",
       "packagesPath": "C:\\Users\\mattyaak\\.nuget\\packages\\",
-      "outputPath": "C:\\DutchTreat\\obj\\",
+      "outputPath": "C:\\Users\\mattyaak\\source\\repos\\mattyaak\\DutchTreat\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mattyaak\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3927,6 +3927,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -3938,6 +3939,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.AspNetCore.Mvc.Core": {
             "target": "Package",
@@ -3966,7 +3968,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
