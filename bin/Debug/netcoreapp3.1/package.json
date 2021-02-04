@@ -3,8 +3,9 @@
   "name": "asp.net",
   "private": true,
   "dependencies": {
+    "bootstrap": "4.5.1",
     "jquery": "3.5.1",
-    "bootstrap": "4.5.1"
+    "jquery-validation": "1.19.3"
   },
   "devDependencies": {}
 }

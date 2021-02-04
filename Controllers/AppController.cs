@@ -24,7 +24,13 @@ namespace DutchTreat.Controllers
 
         [HttpPost("contact")]
         public IActionResult Contact(ViewModels.ContactViewModel model)
-        {    
+        {
+            if (ModelState.IsValid)
+            {
+                //Send the email
+                _mailService.SendMail("to.akos@gmail.com", model.Subject, $"From: {model.Name} - {model.Email}, Message: {model.Message} ")
+            }
+
             return View();
         }
 

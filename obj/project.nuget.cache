@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "yv1PHTtppuAWOZakiKAGg/jzkOeALP2wKN/jJSzb6wWUoUpVItaKMeQkcXdcvGvb7FuY2D0mZUsLDqR9Rk13XQ==",
+  "dgSpecHash": "oHQ03+yYbsVwEoU6qd0qTfjf6L8ADwOapVeVdzn6bb/DzR50av6uci7dpPBuWZMY85VNEfQEN8oEQGGnhTyDhQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\mattyaak\\source\\repos\\mattyaak\\DutchTreat\\DutchTreat.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\mattyaak\\.nuget\\packages\\jquery\\1.8.0\\jquery.1.8.0.nupkg.sha512",
+    "C:\\Users\\mattyaak\\.nuget\\packages\\jquery.validation\\1.8.0.1\\jquery.validation.1.8.0.1.nupkg.sha512",
     "C:\\Users\\mattyaak\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\mattyaak\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
     "C:\\Users\\mattyaak\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",
@@ -32,6 +34,7 @@
     "C:\\Users\\mattyaak\\.nuget\\packages\\microsoft.extensions.objectpool\\2.2.0\\microsoft.extensions.objectpool.2.2.0.nupkg.sha512",
     "C:\\Users\\mattyaak\\.nuget\\packages\\microsoft.extensions.options\\2.2.0\\microsoft.extensions.options.2.2.0.nupkg.sha512",
     "C:\\Users\\mattyaak\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\mattyaak\\.nuget\\packages\\microsoft.jquery.unobtrusive.validation\\3.2.11\\microsoft.jquery.unobtrusive.validation.3.2.11.nupkg.sha512",
     "C:\\Users\\mattyaak\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
     "C:\\Users\\mattyaak\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
     "C:\\Users\\mattyaak\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",

@@ -44,6 +44,10 @@
               "target": "Package",
               "version": "[2.2.5, )"
             },
+            "Microsoft.jQuery.Unobtrusive.Validation": {
+              "target": "Package",
+              "version": "[3.2.11, )"
+            },
             "OdeToCode.UseNodeModules": {
               "target": "Package",
               "version": "[3.0.0, )"
